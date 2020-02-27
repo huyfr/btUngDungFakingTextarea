@@ -1,13 +1,3 @@
-/*let str = "Xin Chao Moi Nguoi!";
-let count = 1;
-
-function replaceTxt()
-{
-    let inputText = document.getElementById("inputText").value;
-    document.getElementById("inputText").value = str.substr(0,count);
-    ++count;
-}*/
-
 let result = "";
 let a = ["x", "i", "n", " ", "c", "h", "a", "o"];
 function replaceTxt()
